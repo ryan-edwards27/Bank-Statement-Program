@@ -1,4 +1,4 @@
-#Ryan Edwards - HW Programming Lab 5 - Part 2
+#Ryan Edwards - Bank Statement Project
 
 with open('transaction.txt', 'r') as input_file, open('bank_statement.txt', 'w') as output_file: #open both files, input for reading and output for writing
 
